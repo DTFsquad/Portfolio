@@ -5,7 +5,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Hello portfolio fans!
+      <div className='container'>
+        <div className='navigation'>
+          <h1>This is the navigation</h1>
+        </div>
+        <div>
+          <h2>This is the main body</h2>
+        </div>
+      </div>
     </div>
   );
 }
