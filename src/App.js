@@ -21,7 +21,7 @@ export default class extends React.Component {
       <main>
         <article>
           <h1>Welcome to my portfolio</h1>
-          <p>Lorem ipsum</p>
+          <p>Despre mine</p>
           <p>Lorem ipsum</p>
           <p>Lorem ipsum</p>
           <p>Lorem ipsum</p>
