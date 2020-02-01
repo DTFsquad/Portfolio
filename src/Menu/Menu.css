@@ -1,0 +1,33 @@
+.Menu {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Menu-links {
+    display: none;
+    justify-content: center;
+}
+
+.MenuButton {
+    display: block;
+    padding: 15px;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+@media (min-width: 600px) {
+    .Menu-links {
+        display: flex;
+        justify-content: center;
+    }
+
+    .Menu-link {
+        padding: 20px;
+        color:#828282;
+        font-size: 30px;
+    }
+
+    .MenuButton {
+        display: flex;
+    }
+}
