@@ -16,6 +16,10 @@
 }
 
 @media (min-width: 600px) {
+    .Navigation {
+        justify-content: center;
+    }
+    
     .Navigation-links {
         display: flex;
         justify-content: center;
@@ -28,6 +32,6 @@
     }
 
     .NavigationButton {
-        display: flex;
+        display: none;
     }
 }
