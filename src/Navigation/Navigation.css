@@ -1,14 +1,14 @@
-.Menu {
+.Navigation {
     display: flex;
     justify-content: flex-end;
 }
 
-.Menu-links {
+.Navigation-links {
     display: none;
     justify-content: center;
 }
 
-.MenuButton {
+.NavigationButton {
     display: block;
     padding: 15px;
     margin-top: 15px;
@@ -16,18 +16,18 @@
 }
 
 @media (min-width: 600px) {
-    .Menu-links {
+    .Navigation-links {
         display: flex;
         justify-content: center;
     }
 
-    .Menu-link {
+    .Navigation-link {
         padding: 20px;
         color:#828282;
         font-size: 30px;
     }
 
-    .MenuButton {
+    .NavigationButton {
         display: flex;
     }
 }
