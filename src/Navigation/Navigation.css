@@ -19,10 +19,11 @@
     .Navigation {
         justify-content: center;
     }
-    
+
     .Navigation-links {
         display: flex;
         justify-content: center;
+        position: absolute;
     }
 
     .Navigation-link {

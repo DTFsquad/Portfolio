@@ -24,6 +24,7 @@ export default class Navigation extends React.Component {
                     <div className='Navigation-link'>Portfolio</div>
                 </div>
             </div>
+            
         );
     }
 }
