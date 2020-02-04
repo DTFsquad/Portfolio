@@ -1,4 +1,18 @@
-.App {
-  text-align: center;
-  margin: 5px;
+.Frame {
+  position: relative;
+  width: 1445px;
+  height: 4759px;
+  background-color: white;
+}
+
+.Florin {
+  position: absolute;
+  left: 251.04px;
+  right: 1394.45px;
+  top: 128.13px;
+  bottom: 4512.7px;
+  font-family: Gilroy-Bold;
+  font-size: 47.3392px;
+  line-height: 59px;
+  color: #070707;
 }

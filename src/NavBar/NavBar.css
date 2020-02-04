@@ -1,0 +1,67 @@
+.NavBar {
+    position: relative;
+    color: 828282;
+    display: flex;
+  }
+
+  .Home {
+    position: absolute;
+    left: 17.44%;
+    right: 79.15%;
+    top: 32.99px;
+    bottom: 4702.98px;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+  }
+  
+  .AboutMe {
+    position: absolute;
+    width: 82.34px;
+    left: 456.9px;
+    right: 905.76px;
+    top: 33.05px;
+    bottom: 4702.92px;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+    mix-blend-mode: normal;
+  }
+  
+  .Skills {
+    position: absolute;
+    left: 48.09%;
+    right: 48.99%;
+    top: 32.99px;
+    bottom: 98.82%;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+  }
+  
+  .Portfolio {
+    position: absolute;
+    left: 61.71%;
+    right: 33.29%;
+    top: 32.05px;
+    bottom: 99.03%;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    text-align: center;
+    color: #828282;
+  }
+  
+  .Contacts {
+    position: absolute;
+    left: 77.48%;
+    right: 17.16%;
+    top: 33.05px;
+    bottom: 98.82%;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+  }
