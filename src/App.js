@@ -3,6 +3,7 @@ import './App.css';
 // import Navigation from './Navigation/Navigation';
 import NavBar from './NavBar/NavBar';
 import LineUnderNavigation from './LineUnderNavigation/LineUnderNavigation';
+import HomePage from './HomePage/HomePage';
 
 
 export default class extends React.Component {
@@ -11,8 +12,8 @@ export default class extends React.Component {
       <div className='Frame'>
           <NavBar />
           <LineUnderNavigation />
+          <HomePage />
       </div>
-        
     );
   }
 }

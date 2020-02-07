@@ -4,6 +4,9 @@
     display: flex;
   }
 
+.NavBarLabel {
+  height: 150px;
+}
   .Home {
     position: absolute;
     left: 17.44%;

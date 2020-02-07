@@ -1,0 +1,57 @@
+.HomePage {
+    display: flex;
+    flex: 1;
+    height: 20px;
+  }
+
+  .Description {
+      height: 20px;
+  }
+  
+  .Name {
+    position: absolute;
+    left: 251.04px;
+    right: 1394.45px;
+    top: 128.13px;
+    bottom: 4512.7px;
+    font-family: Gilroy-Bold;
+    font-size: 47.3392px;
+    line-height: 59px;
+    color: #070707;
+  }
+  
+  .Role {
+    position: absolute;
+    left: 46.61%;
+    right: 40.21%;
+    top: 3.85%;
+    bottom: 95.23%;
+    font-family: Gilroy-Bold;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #070707;
+  }
+  
+  .ToogleContainer {
+    position: absolute;
+    width: 150px;
+    height: 27px;
+    left: 1174px;
+    top: 199px;
+    transform: rotate(-90deg);
+  }
+  
+  .ToogleText {
+    position: absolute;
+    left: 5.35%;
+    right: -84.76%;
+    top: 502.15%;
+    bottom: -519.47%;
+    font-family: Gilroy-Bold;
+    font-style: normal;
+    font-weight: bold; 
+    font-size: 18px;
+    line-height: 32px;
+    color: #828282;
+  }
